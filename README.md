@@ -1,5 +1,5 @@
 ## Hi! I'm Zackary. 👋
 
-I'm a software developer and educator with a background in information security. I teach programming and information security topics. I enjoy learning, building things and making technical topics more accessible to a wider audience.
+As a software developer and educator, my expertise lies in information security and programming. I'm passionate about learning, creating, and demystifying complex tech topics for broader understanding.
 
-**Pronouns: he/him**
+My work primarily involves JavaScript/TypeScript, Python, and Rust. Recently, I've become deeply interested in optimizing engineering and architecture practices.
