@@ -1,4 +1,4 @@
-## Hi! I'm Zackary. 👋
+## Hi! I'm Zack 👋
 
 I specialize in information security and full-stack development, combining deep technical expertise with proven leadership and mentoring capabilities. My approach centers on translating complex concepts into actionable insights, and developing both technical proficiency and innovative problem-solving skills across teams.
 
