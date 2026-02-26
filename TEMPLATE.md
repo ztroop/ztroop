@@ -7,3 +7,8 @@ I specialize in information security and full-stack development, combining deep 
 #### ⚡ Stats
 
 Over the past **{{ ACCOUNT_AGE }}** years on GitHub, I've accumulated **{{ STARS }}** stars across **{{ REPOSITORIES }}** public projects. Along the way, that's **{{ COMMITS }}** commits, **{{ PULL_REQUESTS }}** pull requests, and **{{ ISSUES }}** issues opened.
+
+#### ✍️ Elsewhere
+
+- [Blog](https://www.zackarytroop.com/articles)
+- [LinkedIn](https://www.linkedin.com/in/zackary-troop/)
