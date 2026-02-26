@@ -1,5 +1,9 @@
 ## Hi! I'm Zack 👋
 
+[![pgp](https://img.shields.io/badge/pgp-ztroop-313131?style=flat&labelColor=545454&color=313131)](https://github.com/ztroop.gpg) [![views](https://komarev.com/ghpvc/?username=ztroop&style=flat&color=313131&label=views&abbreviated=true)](https://github.com/ztroop)
+
 I specialize in information security and full-stack development, combining deep technical expertise with proven leadership and mentoring capabilities. My approach centers on translating complex concepts into actionable insights, and developing both technical proficiency and innovative problem-solving skills across teams.
 
-**A note on my reduced activity**: I've become more selective about sharing code and projects publicly, as I prefer not to have all my software contributions used as training material for AI models. You'll see less frequent updates from me as a result, though I remain actively engaged in development and education behind the scenes.
+#### ⚡ Stats
+
+Over the past **{{ ACCOUNT_AGE }}** years on GitHub, I've accumulated **{{ STARS }}** stars across **{{ REPOSITORIES }}** personal projects and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories. Along the way, that's **{{ COMMITS }}** commits, **{{ PULL_REQUESTS }}** pull requests, and **{{ ISSUES }}** issues opened.
