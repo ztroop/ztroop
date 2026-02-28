@@ -6,7 +6,7 @@ I specialize in information security and full-stack development, combining deep 
 
 #### ⚡ Stats
 
-Over the past **12** years on GitHub, I've accumulated **123** stars across **34** public projects. Along the way, that's **914** commits, **31** pull requests, and **52** issues opened.
+Over the past **12** years on GitHub, I've accumulated **123** stars across **34** public projects. Along the way, that's **924** commits, **32** pull requests, and **52** issues opened.
 
 #### ✍️ Elsewhere
 
