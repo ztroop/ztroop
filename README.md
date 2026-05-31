@@ -4,10 +4,6 @@
 
 I specialize in information security and full-stack development, combining deep technical expertise with proven leadership and mentoring capabilities. My approach centers on translating complex concepts into actionable insights, and developing both technical proficiency and innovative problem-solving skills across teams.
 
-#### ⚡ Stats
-
-Over the past **12** years on GitHub, I've accumulated **131** stars across **34** public projects. Along the way, that's **1266** commits, **40** pull requests, and **55** issues opened.
-
 #### ✍️ Elsewhere
 
 - [Blog](https://www.zackarytroop.com/articles)
